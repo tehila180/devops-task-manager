@@ -16,6 +16,7 @@ stages {
             }
         }
     }
+    
 
     stage('Build Frontend') {
         steps {
